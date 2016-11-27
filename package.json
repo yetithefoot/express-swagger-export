@@ -1,5 +1,5 @@
 {
-  "name": "express3-swagger-export",
+  "name": "express-swagger-export",
   "version": "1.0.0",
   "description": "Exports swagger 2.0 file from existing Express 3 application",
   "main": "index.js",
@@ -8,12 +8,12 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/yetithefoot/express3-swagger-export.git"
+    "url": "git+https://github.com/yetithefoot/express-swagger-export.git"
   },
   "author": "Vlad Tsepelev <reg.yeti@gmail.com> (http://yetithefoot.com/)",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/yetithefoot/express3-swagger-export/issues"
+    "url": "https://github.com/yetithefoot/express-swagger-export/issues"
   },
-  "homepage": "https://github.com/yetithefoot/express3-swagger-export#readme"
+  "homepage": "https://github.com/yetithefoot/express-swagger-export#readme"
 }
