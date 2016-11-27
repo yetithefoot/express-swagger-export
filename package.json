@@ -1,6 +1,6 @@
 {
   "name": "express-swagger-export",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Exports swagger 2.0 file from existing Express 3 application",
   "main": "index.js",
   "scripts": {
